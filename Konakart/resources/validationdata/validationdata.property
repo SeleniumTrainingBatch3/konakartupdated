@@ -1,0 +1,2 @@
+val.product.name = //a[text()="Logitech Illuminated Keyboard"]
+val.product.searchdetail = (//div[contains(.,'There are no available products.')])[5]
